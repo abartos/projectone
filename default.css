@@ -80,7 +80,7 @@ body {
 
 
 #sub {
-	font-size: 50px;
+	font-size: 80px;
 	font-family: 'Raleway';
 	text-align: center;
 	position: relative;
@@ -474,8 +474,8 @@ img {
 	font-size: 25px;
 	text-align: right;
 	position: relative;
-	margin-right: 150px;
-	color: white;
+	margin-right: 850px;
+	color: #FEE300;
 }
 
 #about {
@@ -483,110 +483,45 @@ img {
 	font-size: 40px;
 	text-align: right;
 	position: relative;
-	margin-top: 70px;
-	margin-right: 150px;
+	margin-top: 80px;
+	margin-right: 910px;
 	color: white;
 }
 
-#dates {
+
+
+#friday{
 	font-family: 'Raleway';
-	font-size: 25px;
+	font-size: 18px;
 	text-align: left;
 	position: relative;
-	color: white;
-
+	color: #FEE300;
+	margin-left: 105px;
+	margin-top: 20px;
+	padding-bottom: 100px;
 }
 
-
-#dates li {
-	display: inline;
-	padding: 80px;
-}
-
-
-#festival {
+#saturday{
 	font-family: 'Raleway';
-	font-size: 16px;
+	font-size: 18px;
 	text-align: left;
 	position: relative;
-	color: white;
-	margin-left: 80px;
-
-}
-
-
-#festival li {
-	display: inline;
-	padding-right: 180px;
-}
-
-
-#concerts {
-	font-family: 'Raleway';
-	font-size: 16px;
-	text-align: left;
-	position: relative;
-	color: white;
-	margin-left: 20px;
-
-}
-
-
-#concerts li {
-	display: inline;
-	padding: 30px;
-}
-
-#ending {
-	font-family: 'Raleway';
-	font-size: 16px;
-	text-align: left;
-	position: relative;
-	color: white;
-	margin-left: -60px;
-
-}
-
-
-#ending li {
-	display: inline;
-	padding: 120px;
-}
-
-
-#firework7 {
-	height: 150px;
-	width: 150px;
-	position: relative;
-	opacity: 0;
-	margin-left: 1000px;
+	color: #FEE300;
+	margin-left: 550px;
 	margin-top: -250px;
-	-webkit-animation: firework1 3s infinite;
-	-webkit-animation-delay: 6s;
-	-webkit-animation-fill-mode: forwards;
+	padding-bottom: 100px;
 }
 
-
-@-webkit-keyframes firework1 {
-	0% {opacity: 0;}
-	50% {opacity: 1;} 
-	100% {opacity: 0;}
-
-}
-
-
-#firework8 {
-	height: 200px;
-	width: 200px;
+#sunday{
+	font-family: 'Raleway';
+	font-size: 18px;
+	text-align: left;
 	position: relative;
-	opacity: 0;
-	margin-left: 975px;
-	margin-top: -160px;
-	-webkit-animation: firework2 3s infinite;
-	-webkit-animation-delay: 6.5s;
-	-webkit-animation-fill-mode: forwards;
-
-}
+	color: #FEE300;
+	margin-left: 950px;
+	margin-top: -230px;
+	padding-bottom: 100px;
+}s
 
 
 
